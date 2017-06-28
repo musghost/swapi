@@ -2,7 +2,7 @@
   "name": "swapi",
   "version": "1.0.0",
   "description": "Swapi library to fetch resources from the api service.",
-  "main": "index.js",
+  "main": "./lib/swapi.js",
   "dependencies": {
     "axios": "^0.16.2"
   },
